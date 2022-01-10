@@ -16,18 +16,17 @@ The following analysis is being used to convince investors that a bike-sharing p
 ### Male riders make up the majority of the bike sharing service:
 ![checkout times by gender](https://github.com/forrestcasey/bikesharing/blob/main/images_1/checkout%20times%20by%20gender.png)
 
-### This highlights peak hours for the most frequent riding times, of which seem to be before and after work hours, suggesting more adults who are working full time jobs, or travelign to and from work.
+### This highlights peak hours for male riders contrasted with female riding times during the day. They have the same mapping of times, with the only real difference being that males make up most of riders during these times:
 ![trips by gender(weekday per hour)](https://github.com/forrestcasey/bikesharing/blob/main/images_1/trips%20by%20gender(weekday%20per%20hour).png)
 
-### This highlights peak hours for the most frequent riding times, of which seem to be before and after work hours, suggesting more adults who are working full time jobs, or travelign to and from work.
+### This highlights peak hours for the most frequent riding times, of which seem to be before and after work hours, suggesting more adults who are working full time jobs/ traveling to and from work possibly:
 ![trips by weekday per hour](https://github.com/forrestcasey/bikesharing/blob/main/images_1/trips%20by%20weekday%20per%20hour.png)
 
+This shows ridership by Customer vs Subscriber, where male subscribers make up the majority, and seem to have peak riding times over 200k reported on Tuesday, Thursday, and Fridays.
 ![user trips by gender by weekday](https://github.com/forrestcasey/bikesharing/blob/main/images_1/user%20trips%20by%20gender%20by%20weekday.png)
 
-
-
 ## Summary:
-
+Given this report, these bikes seem to be used more so for commuting for work, and used most male subscribers. This info will help the investment team in potentially advertising  geared toward the male population for increased profits, and additionally predict suitable repair times for the bikes given the most active times of ridership use are clearly represented statistically through these visulizations.
 
 
 
