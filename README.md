@@ -10,7 +10,7 @@
 ### 5 visualizations from deliv 2:
 
 1.
-
+![https://github.com/forrestcasey/bikesharing/blob/main/images_1/checkout%20times%20by%20gender.png](checkout times by gender)
 
 2.
 
